@@ -16,4 +16,6 @@ https://github.com/PLGuerraDesigns/cg-angry-bricks/blob/main/part-2/report.pdf
 
 ### Demo Video
 
-https://github.com/PLGuerraDesigns/cg-angry-bricks/blob/main/demo.mp4
+
+https://github.com/user-attachments/assets/395c8534-e224-4b14-b3f9-cc8cb83bee54
+
